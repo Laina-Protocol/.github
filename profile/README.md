@@ -30,10 +30,10 @@ Total estimated workload is 3 weeks and 300 working hours (two developers, 50h/w
 We will write detailed and thorough tests for the MVP contract specified in the first deliverable. Additionally, we will create a project page for Laina under the Stellar Developer Discord channel in the Community fund projects section. In this project page and general discussions in the Stellar Developers Discord channel we are aiming to gather feed-back from minimum 10 individuals. We’ll then create a written report of the feedback that we have gathered.
 
 **Tasks**
-- [ ] task 1
-- [ ] task 2
-- [ ] task 3
-- [ ] task 4
+- [ ] Create functional tests for each of the contracts
+- [ ] Create fuzz tests for the whole system
+- [ ] Create a detailed project page in the Stellar community fund channel
+- [ ] Get a test group from the people of Stellar ecosystem, friends and family. Gather feedback from them and report it.
 
 Total estimated workload is 1 weeks and 100 working hours. Used hours: 0/100
 
@@ -43,9 +43,9 @@ A browser UI will be built for Laina. The web application will allow the user to
 The application will be a full-stack Astro & TypeScript application, with bindings for Laina-contracts. Preliminary UI designs for the application are already drafted, and attached below.
 
 **Tasks**
-- [ ] task 1
-- [ ] task 2
-- [ ] task 3
-- [ ] task 4
+- [ ] Finalize the wireframe
+- [ ] Develop the first version of the UI
+- [ ] Connect Laina smart contracts with the UI and host it
+- [ ] Adjust according to well-founded feedback
 
 Total estimated workload is 2 weeks and 200 working hours. Used hours: 0/200
